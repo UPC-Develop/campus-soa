@@ -1,0 +1,12 @@
+D:\UPC\2022-0\DES_SIS_DIS\Trabajo final\VisualStudio\Campus\Campus\bin\Campus.dll.config
+D:\UPC\2022-0\DES_SIS_DIS\Trabajo final\VisualStudio\Campus\Campus\bin\Campus.dll
+D:\UPC\2022-0\DES_SIS_DIS\Trabajo final\VisualStudio\Campus\Campus\bin\Campus.pdb
+D:\UPC\2022-0\DES_SIS_DIS\Trabajo final\VisualStudio\Campus\Campus\bin\Dapper.dll
+D:\UPC\2022-0\DES_SIS_DIS\Trabajo final\VisualStudio\Campus\Campus\bin\System.Data.SqlClient.dll
+D:\UPC\2022-0\DES_SIS_DIS\Trabajo final\VisualStudio\Campus\Campus\bin\Dapper.xml
+D:\UPC\2022-0\DES_SIS_DIS\Trabajo final\VisualStudio\Campus\Campus\bin\System.Data.SqlClient.xml
+D:\UPC\2022-0\DES_SIS_DIS\Trabajo final\VisualStudio\Campus\Campus\obj\Debug\Campus.csproj.AssemblyReference.cache
+D:\UPC\2022-0\DES_SIS_DIS\Trabajo final\VisualStudio\Campus\Campus\obj\Debug\Campus.csproj.CoreCompileInputs.cache
+D:\UPC\2022-0\DES_SIS_DIS\Trabajo final\VisualStudio\Campus\Campus\obj\Debug\Campus.csproj.CopyComplete
+D:\UPC\2022-0\DES_SIS_DIS\Trabajo final\VisualStudio\Campus\Campus\obj\Debug\Campus.dll
+D:\UPC\2022-0\DES_SIS_DIS\Trabajo final\VisualStudio\Campus\Campus\obj\Debug\Campus.pdb
